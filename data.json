@@ -1,0 +1,100 @@
+[
+  {
+    "question": "What is the smallest planetin the solar system?",
+    "option1": "Mars",
+    "option2": "Venus",
+    "option3": "Mercury",
+    "option4": "ploto",
+    "cooectOptions": 3,
+    "category": "sciences",
+    "difficulty": "easy"
+  },
+
+  {
+    "question": "What is the name of the largest soocial platform?",
+    "option1": "Twitter",
+    "option2": "Instagram",
+    "option3": "Facebook",
+    "option4": "LinkedIn",
+    "cooectOptions": 3,
+    "category": "technology",
+    "difficulty": "medium"
+  },
+
+  {
+    "question": "Which country has the largest population in the world?",
+    "option1": "India",
+    "option2": "China",
+    "option3": "Russia",
+    "option4": "United States",
+    "cooectOptions": 2,
+    "category": "world",
+    "difficulty": "Hard"
+  },
+
+  {
+    "question": "How many countries make up the CEMAC zone?",
+    "option1": "2",
+    "option2": "10",
+    "option3": "8",
+    "option4": "6",
+    "cooectOptions": 4,
+    "category": "Africa",
+    "difficulty": "Hard"
+  },
+
+  {
+    "question": "In which year did must african counties have their independence?",
+    "option1": "1884",
+    "option2": "1914",
+    "option3": "1960",
+    "option4": "1950",
+    "cooectOptions": 3,
+    "category": "history",
+    "difficulty": "easy"
+  },
+
+  {
+    "question": "What is the smallest planetin the solar system?",
+    "option1": "Mars",
+    "option2": "Venus",
+    "option3": "Mercury",
+    "option4": "ploto",
+    "cooectOptions": 3,
+    "category": "sciences",
+    "difficulty": "easy"
+  },
+
+  {
+    "question": "What is the largest planetin the solar system?",
+    "option1": "Mars",
+    "option2": "jupiter",
+    "option3": "Mercury",
+    "option4": "ploto",
+    "cooectOptions": 2,
+    "category": "sciences",
+    "difficulty": "easy"
+  },
+
+  {
+    "question": "How many seasons does afrca has?",
+    "option1": "2",
+    "option2": "4",
+    "option3": "3",
+    "option4": "1",
+    "cooectOptions": 1,
+    "category": "geography",
+    "difficulty": "medium"
+  },
+
+  {
+    "question": "In science what is the basic definition of matter?",
+    "option1": "matter has mass",
+    "option2": "matter is air",
+    "option3": "Matter occupy space and has weight",
+    "option4": "matter is solid",
+    "cooectOptions": 3,
+    "category": "sciences",
+    "difficulty": "easy"
+  }
+]
